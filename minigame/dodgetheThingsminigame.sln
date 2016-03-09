@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{6D71E099-A6FC-FF29-45E5-E1EA6855AE77}") = "dodgetheThingsminigame", "Assembly-CSharp.csproj", "{D6D6D284-F3EE-39D6-3BA8-BC3B2404636B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D6D6D284-F3EE-39D6-3BA8-BC3B2404636B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D6D6D284-F3EE-39D6-3BA8-BC3B2404636B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D6D6D284-F3EE-39D6-3BA8-BC3B2404636B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D6D6D284-F3EE-39D6-3BA8-BC3B2404636B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
